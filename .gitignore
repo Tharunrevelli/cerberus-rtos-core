@@ -1,0 +1,10 @@
+# Binaries & Object files
+*.exe
+*.o
+*.obj
+*.out
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
